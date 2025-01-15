@@ -28,3 +28,4 @@ AppDataSource.initialize()
         console.log("New user has been saved!");
     })
     .catch((error) => console.log("Error: ", error));
+    //test
